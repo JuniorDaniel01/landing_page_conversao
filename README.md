@@ -1,1 +1,1 @@
- Criação de landing page utilizando o Wordpress
+ criação de landing page utilizando o Wordpress
