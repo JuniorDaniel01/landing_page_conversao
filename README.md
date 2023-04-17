@@ -1,1 +1,1 @@
-# landing_page.wordpress
+# Criação de landing page utilizando o Wordpress
